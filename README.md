@@ -54,6 +54,8 @@
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
@@ -61,6 +63,8 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888882.svg?token=exp=1619944502~hmac=83071aa67d954f5f7f02a5393b2bec9a"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 <br/>
 
@@ -86,31 +90,31 @@
 
 #
 
-<h1>
+<h3>
   Connect With Me 
   <a target="_blank">
     <img src="Blob/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
-</h1>
+</h3>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/swaranjana-nayak/" target="_blank">
-    <code><img height="60" width="60" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619943882~hmac=d83826beae2d1e707168c87d24e0d090"/></code>
+    <code><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619943882~hmac=d83826beae2d1e707168c87d24e0d090"/></code>
   </a>
   <a href="https://www.instagram.com/swaranjananayak/" target="_blank">
-    <code><img height="60" width="60" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619943835~hmac=f85cf32aa387b7fb694269988a11d0e3"/></code>
+    <code><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619943835~hmac=f85cf32aa387b7fb694269988a11d0e3"/></code>
   </a>    
 </p>
 <br/>
 
 <p align="center">
   <a href="https://www.hackerrank.com/sn2606/" target="_blank">
-    <code><img height="60" width="60" src="Blob/hr.jpg"/></code>
+    <code><img height="30" width="30" src="Blob/hr.jpg"/></code>
   </a>
   
   <a href="https://leetcode.com/sn2606/" target="_blank">
-    <code><img height="60" width="60" src="Blob/LeetCode.png"/></code>
+    <code><img height="30" width="30" src="Blob/LeetCode.png"/></code>
   </a>
 
   <!-- <a href="http://www.codeforces.com/profile/sn2606" target="_blank">
@@ -118,11 +122,8 @@
   </a> -->
   
   <a href="https://www.codechef.com/users/sn2606" target="_blank">
-    <code><img height="60" width="60" src="Blob/cc.png"/></code>
+    <code><img height="30" width="30" src="Blob/cc.png"/></code>
   </a>
 </p>
 
 <br/>
-<br/>
-
-#
