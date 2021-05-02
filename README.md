@@ -2,10 +2,7 @@
   <a target="_blank">
     <img src="Blob/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="Blob/Hi.gif" width="40px" />
-  </a>
+  𝐇𝐞𝐥𝐥𝐨, World!
 </h1>
 
 <br/>
@@ -19,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Data Science or Web Development**
 - 😄 Pronouns : **She/Her/Hers**
 - ⚡ Fun fact : **I love Gilmore Girls and Sufjan Stevens**
-- <img src="Blob/house.png" width="20px" height="20px"/>  Hogwarts House : **Ravenclaw** <img width="20px" height="20px" src="Blob/Slytherin_ClearBG.png">
+- <img src="Blob/house.png" width="20px" height="20px"/>  Hogwarts House : **Ravenclaw** 
 
 <br/>
 <br/>
@@ -28,11 +25,6 @@
   <img src="https://gpvc.arturio.dev/sn2606" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/sn2606?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/sn2606?label=Stars" alt="Total Stars">
-</p>
-<p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fsn2606" alt="Github Profile Score">
-  </code>
 </p>
 
 #
@@ -93,20 +85,6 @@
 <br>
 
 #
-
-<p align="center">
-  <a href="https://github.com/sn2606">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-  <h4 align="center"><code>📊 GitHub Metrics</code></h4>
-</p>
-
-<p align="center">
-  <a href='https://github.com/sn2606/'>
-    <img width="75%" src="Blob/metrics.svg"/>
-    <img src="Blob/metrics.detailed.svg" width="75%"/>
-  </a>
-</p>
 
 <h1>
   Connect With Me 
