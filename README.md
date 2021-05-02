@@ -128,7 +128,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/sn2606/" target="_blank">
-    <code><img height="60" width="60" src="Blob/hr.png"/></code>
+    <code><img height="60" width="60" src="Blob/hr.jpg"/></code>
   </a>
   
   <a href="https://leetcode.com/sn2606/" target="_blank">
@@ -146,12 +146,6 @@
 
 <br/>
 <br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="Github Arctic Vault Contributor" src = "Blob/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
 
 #
 
