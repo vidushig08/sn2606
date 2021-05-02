@@ -96,10 +96,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/swaranjana-nayak/" target="_blank">
-    <code><img height="60" width="60" src="Blob/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619943882~hmac=d83826beae2d1e707168c87d24e0d090"/></code>
   </a>
   <a href="https://www.instagram.com/swaranjananayak/" target="_blank">
-    <code><img height="60" width="60" src="Blob/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619943835~hmac=f85cf32aa387b7fb694269988a11d0e3"/></code>
   </a>    
 </p>
 <br/>
@@ -126,12 +126,3 @@
 <br/>
 
 #
-
-![footer](Blob/footer.png)
-
-
-----
-
-**Credits**: [sn2606](https://github.com/sn2606/)
-
-**Last Edited**: 12/04/2021
