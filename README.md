@@ -33,9 +33,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="Blob/left.png">
+    <img height="100" width="125" src="Blob/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sn2606&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="Blob/right.png">
+    <img height="100" width="125" src="Blob/right.png">
   </a>
 </p>
 
