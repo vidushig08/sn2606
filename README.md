@@ -17,6 +17,7 @@
 - 😄 Pronouns : **She/Her/Hers**
 - ⚡ Fun fact : **I love Gilmore Girls and Sufjan Stevens**
 - <img src="Blob/house.png" width="20px" height="20px"/>  Hogwarts House : **Ravenclaw** 
+- 📑 [Resume Link](https://drive.google.com/file/d/1QodU4vuX9fpexP_tg0LDxID21Bfa-ujc/view?usp=sharing)
 
 <br/>
 <br/>
@@ -99,13 +100,13 @@
     <code><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619943835~hmac=f85cf32aa387b7fb694269988a11d0e3"/></code>
   </a> 
 
-  <a href="https://www.hackerrank.com/sn2606/" target="_blank">
-    <code><img height="30" width="30" src="Blob/hr.jpg"/></code>
-  </a>   
-
   <a href="https://www.kaggle.com/swaranjananayak/code" target="_blank">
     <code><img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/></code>
   </a>
+  
+  <a href="https://www.hackerrank.com/sn2606/" target="_blank">
+    <code><img height="30" width="30" src="Blob/hr.jpg"/></code>
+  </a>   
   
   <a href="https://leetcode.com/sn2606/" target="_blank">
     <code><img height="30" width="30" src="Blob/LeetCode.png"/></code>
@@ -120,8 +121,6 @@
   </a>
 
   <br />
-
-  [Resume Link](https://drive.google.com/file/d/1QodU4vuX9fpexP_tg0LDxID21Bfa-ujc/view?usp=sharing)
 </p>
 
 <br/>
