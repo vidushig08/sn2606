@@ -93,12 +93,11 @@
 <h3>
   Connect With Me 
   <a target="_blank">
-    <img src="Blob/Handshake.gif" height="32px" style="max-width:100%;">
+    <img src="Blob/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h3>
 
 <p align="center">
-  <br>
   <a href="https://www.linkedin.com/in/swaranjana-nayak/" target="_blank">
     <code><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619943882~hmac=d83826beae2d1e707168c87d24e0d090"/></code>
   </a>
