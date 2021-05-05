@@ -29,9 +29,9 @@
 </p>-->
 
 #
-<p align="center">
+<!--<p align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=sn2606&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/sn2606)
-</p>
+</p>-->
 
 <p align="center">
   <a>
