@@ -22,15 +22,16 @@
 <br/>
 <br/>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://gpvc.arturio.dev/sn2606" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/sn2606?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/sn2606?label=Stars" alt="Total Stars">
-</p>
+</p>-->
 
 #
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sn2606&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/sn2606)
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sn2606&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/sn2606)
+</p>
 
 <p align="center">
   <a>
