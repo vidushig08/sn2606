@@ -68,7 +68,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/640px-Apache_NetBeans_Logo.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888882.svg?token=exp=1619944502~hmac=83071aa67d954f5f7f02a5393b2bec9a"></code>
+<code><img height="40" width="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888882.svg"></code>
 <br/>
 
 #
