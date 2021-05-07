@@ -58,6 +58,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 #
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
@@ -66,9 +67,8 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/640px-Apache_NetBeans_Logo.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888882.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <br/>
 
 #
@@ -95,10 +95,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swaranjana-nayak/" target="_blank">
-    <code><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619943882~hmac=d83826beae2d1e707168c87d24e0d090"/></code>
+    <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/640px-Linkedin.svg.png"/></code>
   </a>
   <a href="https://www.instagram.com/swaranjananayak/" target="_blank">
-    <code><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619943835~hmac=f85cf32aa387b7fb694269988a11d0e3"/></code>
+    <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"/></code>
   </a> 
 
   <a href="https://www.kaggle.com/swaranjananayak/code" target="_blank">
@@ -112,10 +112,6 @@
   <a href="https://leetcode.com/sn2606/" target="_blank">
     <code><img height="30" width="30" src="Blob/LeetCode.png"/></code>
   </a>
-
-  <!-- <a href="http://www.codeforces.com/profile/sn2606" target="_blank">
-    <code><img height="60" width="60" src="Blob/cf.png"/></code>
-  </a> -->
   
   <a href="https://www.codechef.com/users/sn2606" target="_blank">
     <code><img height="30" width="30" src="Blob/cc.png"/></code>
