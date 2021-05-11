@@ -11,12 +11,11 @@
   <img align="right" height="250" width="400" alt="GIF" src="Blob/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Data Science, Web Development and HPC**
-- 🌱 I’m currently learning **Backend Development and Competitive Programming**
-- 👯 I’m looking to collaborate on **Data Science or Web Development**
+- 🔭 I’m currently working on **Data Science, Web Development**
+- 🌱 I’m currently learning **Backend Development, HPC and Competitive Programming**
+- 👯 I’m looking to collaborate on **Web Development projects**
 - 😄 Pronouns : **She/Her/Hers**
-- ⚡ Fun fact : **I love Gilmore Girls and Sufjan Stevens**
-- <img src="Blob/house.png" width="20px" height="20px"/>  Hogwarts House : **Ravenclaw** 
+- ⚡ 2021 goals : I want to build more React projects and full stack web development projects, write cleaner code, master DSA
 - 📑 [Resume Link](https://drive.google.com/file/d/1QodU4vuX9fpexP_tg0LDxID21Bfa-ujc/view?usp=sharing)
 
 <br/>
@@ -57,7 +56,7 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<!--<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>-->
 #
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
