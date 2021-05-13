@@ -114,10 +114,6 @@
   <a href="https://leetcode.com/sn2606/" target="_blank">
     <code><img height="30" width="30" src="Blob/LeetCode.png"/></code>
   </a>
-  
-  <a href="https://www.codechef.com/users/sn2606" target="_blank">
-    <code><img height="30" width="30" src="Blob/cc.png"/></code>
-  </a>
 
   <br />
 </p>
